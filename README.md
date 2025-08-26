@@ -54,9 +54,7 @@
 ### 🔥 Streak Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nijwel&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijwel&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 📅 Contribution Calendar
@@ -66,11 +64,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+<!-- TODO: Set up GitHub Actions to auto-update this section -->
 <!--END_SECTION:activity-->
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏗️ Featured Projects
 
