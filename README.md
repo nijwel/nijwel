@@ -1,4 +1,4 @@
-# 👨‍💻 Nijwel | Full Stack Developer
+# 👨‍💻 Nijwel | Backend Developer
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
