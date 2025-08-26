@@ -63,12 +63,16 @@
 <!--END_SECTION:activity-->
 
 
-## 🏗️ Featured Projects
+## 🏗️ Featured Projects  
 
 <div align="center">
 
-<!-- TODO: Replace with actual project -->
+[![POS System](https://img.shields.io/badge/POS%20System-4CAF50?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/nijwel/pos-system)
+[![E-commerce](https://img.shields.io/badge/E--commerce-2196F3?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/nijwel/ecommerce)
+[![Support Ticket System](https://img.shields.io/badge/Support%20Ticket%20System-FF9800?style=for-the-badge&logo=php&logoColor=white)](https://github.com/nijwel/support-ticket-system)
+
 </div>
+
 
 
 ## 🌐 Let's Connect & Collaborate
@@ -77,7 +81,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nijwel.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nijwel09@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/nijwel])
 
 
 ### 📱 Social Presence
@@ -85,6 +88,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/nijwel?style=social)](https://github.com/nijwel)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://facebook.com/nijwel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/nijwel)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=social&logo=twitter)](https://www.x.com/nijwel)
 
 <!-- TODO: Add your Twitter handle -->
 
