@@ -17,11 +17,13 @@
 
 ## 🛠️ Technology Arsenal
 
-### 💻 Programming Languages
+### 💻 Programming Knowladge
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=blue)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Jquery](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
 <!-- TODO: Add/remove languages based on your actual skills -->
 
 ### 🚀 Frameworks & Libraries
