@@ -64,8 +64,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
 <!--END_SECTION:activity-->
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏗️ Featured Projects
 
