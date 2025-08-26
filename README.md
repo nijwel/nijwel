@@ -9,7 +9,7 @@
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Improving my personal portfolio and exploring new frameworks** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Next.js and advanced TypeScript concepts** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: **PHP, Laravel, Livewire and Filament** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source Projects focused on web3 and AI**
 - 💬 Ask me about: **Full-stack development, web3 integration, and efficient coding practices** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact:  **I enjoy hiking and exploring new places.** <!-- TODO: Add a fun fact -->
