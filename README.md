@@ -9,7 +9,7 @@
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Improving my personal portfolio and exploring new frameworks** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **PHP, Laravel, Livewire and Filament** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: **PHP, Laravel, Livewire, Filament, Vuejs** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source Projects focused on web3 and AI**
 - 💬 Ask me about: **Full-stack development, web3 integration, and efficient coding practices** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact:  **I enjoy hiking and exploring new places.** <!-- TODO: Add a fun fact -->
@@ -23,19 +23,15 @@
 
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-![Jquery](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
+![LIVEWIRE](https://img.shields.io/badge/Livewire-745571?style=for-the-badge&logo=livewire&logoColor=white)
+
+![FILAMENT](https://img.shields.io/badge/Filament-F2911B?style=for-the-badge&logo=filament&logoColor=white)
+
+![JQUERY](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
 <!-- TODO: Add/remove languages based on your actual skills -->
 
-### 🚀 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- TODO: Add your actual frameworks -->
-
-### ☁️ Cloud & DevOps
-<!-- TODO: Add your cloud/devops tools -->
-
 ### 🗄️ Databases
-<!-- TODO: Add your databases -->
+![MYSQL](https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 📊 GitHub Analytics Dashboard
