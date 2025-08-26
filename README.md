@@ -102,15 +102,15 @@
 
 ---
 
-## ☕ Support My Work  
+<!--## ☕ Support My Work  
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/nijwel"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   <a href="https://ko-fi.com/nijwel"><img src="https://img.shields.io/badge/Ko--fi-Support-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-</div>  
+</div>
 
 ---
-
+ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nijwel&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 </div>
