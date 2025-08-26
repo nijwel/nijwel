@@ -1,128 +1,120 @@
-# 👨‍💻 Nijwel | Backend Developer
+# 👨‍💻 Nijwel | Backend Developer  
 
-### 🚀 Building the future, one commit at a time
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🚀%20Building%20the%20future&fontAlign=50&fontAlignY=40&color=0:6EE7F9,100:8B5CF6&fontColor=ffffff" alt="Waving Header" />
+</p>
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
-</div>
 
-## 🎯 Current Focus
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nijwel;Backend+Developer;Laravel+%7C+Livewire+%7C+Filament;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+</p>
 
-- 🔭 Working on: **Improving my personal portfolio and exploring new frameworks** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **PHP, Laravel, Livewire, Filament, Vuejs** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source Projects focused on web3 and AI**
-- 💬 Ask me about: **Full-stack development, web3 integration, and efficient coding practices** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I enjoy hiking and exploring new places.** <!-- TODO: Add a fun fact -->
+---
 
-## 🛠️ Technology Arsenal
+## 🎯 Current Focus  
 
-### 💻 Programming Knowladge
+- 🔭 Working on: **Improving my personal portfolio and exploring new frameworks**  
+- 🌱 Learning: **PHP, Laravel, Livewire, Filament, Vue.js**  
+- 👯 Looking to collaborate on: **Open Source Projects (Web3 + AI)**  
+- 💬 Ask me about: **Full-stack development, Web3 integration, and efficient coding practices**  
+- ⚡ Fun fact: **I enjoy hiking and exploring new places**  
 
+---
+
+## 🛠️ Tech Arsenal  
+
+### 💻 Programming Knowledge  
 ![PHP](https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=blue)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-745571?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-F2911B?style=for-the-badge&logo=filament&logoColor=white)
+![jQuery](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)  
 
-![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white)  
 
-![LIVEWIRE](https://img.shields.io/badge/Livewire-745571?style=for-the-badge&logo=livewire&logoColor=white)
+---
 
-![FILAMENT](https://img.shields.io/badge/Filament-F2911B?style=for-the-badge&logo=filament&logoColor=white)
-
-![JQUERY](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
-
-<!-- TODO: Add/remove languages based on your actual skills -->
-
-### 🗄️ Databases
-
-![MYSQL](https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nijwel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijwel&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</div>  
 
-### 🏆 GitHub Achievements
-
+### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nijwel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nijwel&theme=tokyonight&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
-### 📈 Contribution Activity
-
+### 📈 Contribution Activity  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nijwel&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🔥 Streak Statistics
-
+### 🔥 Streak Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar
+### 📅 Contribution Calendar  
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/nijwel" alt="Contribution Calendar" />
+</p>
 
-<img src="https://ghchart.rshah.org/409ba5/nijwel" alt="Contribution Calendar" width="100%"/>
+---
 
-### ⚡ Recent Activity
-
+## ⚡ Recent Activity  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 🐍 Contribution Snake
+---
 
+## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
 
-## 🏗️ Featured Projects
+---
+
+## 🏗️ Featured Projects  
 
 <div align="center">
 
-[![POS System](https://img.shields.io/badge/POS%20System-4CAF50?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/nijwel/pos-system)
-[![E-commerce](https://img.shields.io/badge/E--commerce-2196F3?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/nijwel/ecommerce)
-[![Support Ticket System](https://img.shields.io/badge/Support%20Ticket%20System-FF9800?style=for-the-badge&logo=php&logoColor=white)](https://github.com/nijwel/support-ticket-system)
-
-</div>
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nijwel.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nijwel09@gmail.com)
-
-### 📱 Social Presence
-
-[![GitHub followers](https://img.shields.io/github/followers/nijwel?style=social)](https://github.com/nijwel)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://facebook.com/nijwel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/nijwel)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=social&logo=twitter)](https://www.x.com/nijwel)
-
-<!-- TODO: Add your Twitter handle -->
+[![POS System](https://img.shields.io/badge/POS%20System-4CAF50?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/nijwel/pos-system)  
+[![E-commerce](https://img.shields.io/badge/E--commerce-2196F3?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/nijwel/ecommerce)  
+[![Support Ticket System](https://img.shields.io/badge/Support%20Ticket%20System-FF9800?style=for-the-badge&logo=php&logoColor=white)](https://github.com/nijwel/support-ticket-system)  
 
 </div>
 
 ---
 
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
+## 🌐 Let’s Connect & Collaborate  
 
 <div align="center">
 
-<!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-<!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-<!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nijwel.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nijwel09@gmail.com)  
+
+### 📱 Social Presence  
+[![GitHub followers](https://img.shields.io/github/followers/nijwel?style=social)](https://github.com/nijwel)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://facebook.com/nijwel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/nijwel)  
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=social&logo=twitter)](https://x.com/nijwel)  
 
 </div>
+
+---
+
+## ☕ Support My Work  
 
 <div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
+  <a href="https://www.buymeacoffee.com/nijwel"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/nijwel"><img src="https://img.shields.io/badge/Ko--fi-Support-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>  
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nijwel&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-### 🚀 "Code is poetry, and every commit tells a story"
-
-<sub>⭐ Feel free to star any repositories you find interesting!</sub>
-
 </div>
+
+<p align="center">
+  🚀 "Code is poetry, and every commit tells a story"  
+</p>
