@@ -1,10 +1,10 @@
 # 👨‍💻 Nijwel | Backend Developer
+
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 </div>
-
 
 ## 🎯 Current Focus
 
@@ -12,8 +12,7 @@
 - 🌱 Learning: **PHP, Laravel, Livewire, Filament, Vuejs** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source Projects focused on web3 and AI**
 - 💬 Ask me about: **Full-stack development, web3 integration, and efficient coding practices** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact:  **I enjoy hiking and exploring new places.** <!-- TODO: Add a fun fact -->
-
+- ⚡ Fun fact: **I enjoy hiking and exploring new places.** <!-- TODO: Add a fun fact -->
 
 ## 🛠️ Technology Arsenal
 
@@ -28,11 +27,12 @@
 ![FILAMENT](https://img.shields.io/badge/Filament-F2911B?style=for-the-badge&logo=filament&logoColor=white)
 
 ![JQUERY](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
+
 <!-- TODO: Add/remove languages based on your actual skills -->
 
 ### 🗄️ Databases
-![MYSQL](https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 
+![MYSQL](https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Analytics Dashboard
 
@@ -42,28 +42,37 @@
 </div>
 
 ### 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nijwel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
 ### 📈 Contribution Activity
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nijwel&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nijwel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijwel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📅 Contribution Calendar
+
 <img src="https://ghchart.rshah.org/409ba5/nijwel" alt="Contribution Calendar" width="100%"/>
 
 ### ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
 <!--END_SECTION:activity-->
 
+### 🐍 Contribution Snake
 
-## 🏗️ Featured Projects  
+![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
+
+## 🏗️ Featured Projects
 
 <div align="center">
 
@@ -73,15 +82,12 @@
 
 </div>
 
-
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nijwel.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nijwel09@gmail.com)
-
 
 ### 📱 Social Presence
 
@@ -93,7 +99,6 @@
 <!-- TODO: Add your Twitter handle -->
 
 </div>
-
 
 ---
 
@@ -118,8 +123,8 @@ If you found my projects helpful or learned something from my code, consider sup
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nijwel&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+### 🚀 "Code is poetry, and every commit tells a story"
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+<sub>⭐ Feel free to star any repositories you find interesting!</sub>
+
 </div>
-
