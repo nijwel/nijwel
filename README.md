@@ -82,6 +82,9 @@
 ### 📱 Social Presence
 
 [![GitHub followers](https://img.shields.io/github/followers/nijwel?style=social)](https://github.com/nijwel)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://facebook.com/nijwel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/nijwel)
+
 <!-- TODO: Add your Twitter handle -->
 
 </div>
