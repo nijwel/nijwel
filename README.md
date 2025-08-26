@@ -71,6 +71,7 @@
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 🏗️ Featured Projects  
