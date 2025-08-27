@@ -60,6 +60,16 @@
   <img src="https://ghchart.rshah.org/409ba5/nijwel" alt="Contribution Calendar" />
 </p>
 
+<!-- ---
+
+## ⚡ Recent Activity   -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
