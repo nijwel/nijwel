@@ -52,7 +52,7 @@
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nijwel&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- ### 📅 Contribution Calendar  
@@ -66,7 +66,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
 
 <!-- ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg) -->
