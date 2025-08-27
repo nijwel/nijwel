@@ -55,10 +55,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijwel&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar  
+<!-- ### 📅 Contribution Calendar  
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/nijwel" alt="Contribution Calendar" />
-</p>
+</p> -->
 
 <!-- ---
 
@@ -68,8 +68,8 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg)
+<!-- ## 🐍 Contribution Snake  
+![Snake animation](https://github.com/nijwel/nijwel/blob/output/github-contribution-grid-snake.svg) -->
 
 
 ---
