@@ -15,8 +15,8 @@
 
 - 🔭 Working on: **Improving my personal portfolio and exploring new frameworks**  
 - 🌱 Learning: **PHP, Laravel, Livewire, Filament, Vue.js**  
-- 👯 Looking to collaborate on: **Open Source Projects (Web3 + AI)**  
-- 💬 Ask me about: **Full-stack development, Web3 integration, and efficient coding practices**  
+- 👯 Looking to collaborate on: **Open Source Projects**  
+- 💬 Ask me about: **Backend development, Web3 integration, and efficient coding practices**  
 - ⚡ Fun fact: **I enjoy hiking and exploring new places**  
 
 ---
