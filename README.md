@@ -53,7 +53,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nijwel&theme=tokyonight-duo" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nijwel&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
