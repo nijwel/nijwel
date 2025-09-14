@@ -23,12 +23,13 @@
 
 ## 🛠️ Tech Arsenal  
 
-### 💻 Programming Knowledge  
+### 💻 Knowledge  
 ![PHP](https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=blue)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-745571?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-F2911B?style=for-the-badge&logo=filament&logoColor=white)
-![jQuery](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)  
+![jQuery](https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=jquery&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white)  
