@@ -85,9 +85,14 @@
 
 <div align="center">
 
-[![POS System](https://img.shields.io/badge/POS%20System-4CAF50?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/nijwel/pos-system)  
-[![E-commerce](https://img.shields.io/badge/E--commerce-2196F3?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/nijwel/ecommerce)  
-[![Support Ticket System](https://img.shields.io/badge/Support%20Ticket%20System-FF9800?style=for-the-badge&logo=php&logoColor=white)](https://github.com/nijwel/support-ticket-system)  
+![POS System](https://img.shields.io/badge/POS%20System-4CAF50?style=for-the-badge&logo=laravel&logoColor=white)
+![E--commerce](https://img.shields.io/badge/E--commerce-2196F3?style=for-the-badge&logo=shopping-cart&logoColor=white)
+![Support Ticket System](https://img.shields.io/badge/Support%20Ticket%20System-FF9800?style=for-the-badge&logo=php&logoColor=white)
+![Social Media App](https://img.shields.io/badge/Social%20Media%20App-9C27B0?style=for-the-badge&logo=facebook&logoColor=white)
+![SaaS E--commerce](https://img.shields.io/badge/SaaS%20E--commerce-00BCD4?style=for-the-badge&logo=shopify&logoColor=white)
+![HRM](https://img.shields.io/badge/HRM-795548?style=for-the-badge&logo=teamspeak&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM-3F51B5?style=for-the-badge&logo=hubspot&logoColor=white)
+![LMS](https://img.shields.io/badge/LMS-009688?style=for-the-badge&logo=moodle&logoColor=white)
 
 </div>
 
